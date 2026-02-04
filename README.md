@@ -10,9 +10,9 @@
 
 <div>  <!--Api dos Status -->
   <p align="center">
-  <a href="https://github.com/lima-bryan">
-    <img height="156em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lima-bryan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&cache_seconds=180"/>
-    <img height="156em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lima-bryan&layout=compact&langs_count=8&theme=algolia&cache_seconds=180"/>
+  <a href="https://github.com/bryanl-smart">
+    <img height="156em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bryanl-smart&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&cache_seconds=180"/>
+    <img height="156em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bryanl-smart&layout=compact&langs_count=8&theme=algolia&cache_seconds=180"/>
   </a>
 </p>
 </div>
