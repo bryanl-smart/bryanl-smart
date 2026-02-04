@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1> Bryan </h1>
+<div align="center">
+  <img  width="400" height="500" alt="assinatura" src="https://github.com/user-attachments/assets/0ccab73e-5aa2-4b7e-9ebe-d3c4da76ab50" />
+  <br>
+ </div>
+ 
+<br>
 
-<!--
-**bryanl-smart/bryanl-smart** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>  <!--Api dos Status -->
+  <p align="center">
+  <a href="https://github.com/lima-bryan">
+    <img height="156em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lima-bryan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&cache_seconds=180"/>
+    <img height="156em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lima-bryan&layout=compact&langs_count=8&theme=algolia&cache_seconds=180"/>
+  </a>
+</p>
+</div>
 
-Here are some ideas to get you started:
+  <!--Icones -->
+<div style="display: inline_block" align="center"> <br>
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-PHP" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Rafa-Laravel" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
+  <img align="center" alt="Rafa-Vuejs" height="30" width="40"src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  
+
+
+</div>
+
+##
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bryanl-smart/bryanl-smart/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bryanl-smart/bryanl-smart/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/bryanl-smart/bryanl-smart/output/pacman-contribution-graph.svg">
+</picture>
