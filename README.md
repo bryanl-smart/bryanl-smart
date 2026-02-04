@@ -1,6 +1,8 @@
 <h1 align ="center"> WELCOME GUYS </h1>
+
 <div align="center">
-  <img  width="400" height="500" alt="assinatura" src="https://github.com/user-attachments/assets/0ccab73e-5aa2-4b7e-9ebe-d3c4da76ab50" />
+  <img width="400" height="500" alt="assinatura" src="https://github.com/user-attachments/assets/29743f9d-353f-4c31-9088-09c62f35e64f" />
+
   <br>
  </div>
  
